@@ -1,0 +1,9 @@
+[Adblock Plus 2.0]
+! Version:
+! Title:
+! Last modified:
+! Expires: 4 days (update frequency)
+! Homepage:
+!
+youtube.com##.html5-endscreen.ytp-player-content.videowall-endscreen.ytp-show-tiles
+youtube.com##.ytp-ce-element
