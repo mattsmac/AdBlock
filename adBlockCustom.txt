@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
 ! Title: Matt List
 ! Expires: 1 days
-youtube.com##.html5-endscreen.ytp-player-content.videowall-endscreen.ytp-show-tiles
+youtube.com##.html5-endscreen
 youtube.com##.ytp-ce-element
