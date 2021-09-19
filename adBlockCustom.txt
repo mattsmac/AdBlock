@@ -2,3 +2,4 @@
 ! Title: Matt List
 ! Expires: 1 minute
 youtube.com##.html5-endscreen
+youtube.com##.ytp-ce-element
