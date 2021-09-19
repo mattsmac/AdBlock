@@ -7,3 +7,4 @@
 !
 youtube.com##.html5-endscreen
 youtube.com##.ytp-ce-element
+wentzsucc.org##.wp-block-button
